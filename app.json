@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "weather-app-react-native",
+    "slug": "weather-app-react-native",
+    "sdkVersion": "39.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.weatherapp",
+      "versionCode": 1,
+      "permissions": [],
+      "icon": "./assets/icon.png"
+    },
+    "ios": {
+      "icon": "./assets/icon.png"
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": ""
+  }
+}
